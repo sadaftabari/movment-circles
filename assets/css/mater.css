@@ -1,0 +1,20 @@
+.circle{
+    background-color: rgb(8, 0, 94);
+    font-weight: bold;
+    color: white;
+    padding: 1.6rem;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    
+}
+
+.circles{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
